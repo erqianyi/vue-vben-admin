@@ -26,6 +26,9 @@
     "#/*": "./src/*"
   },
   "dependencies": {
+    "@univerjs/preset-docs-core": "^0.10.5",
+    "@univerjs/preset-sheets-core": "^0.10.5",
+    "@univerjs/presets": "^0.10.5",
     "@vben/access": "workspace:*",
     "@vben/common-ui": "workspace:*",
     "@vben/constants": "workspace:*",
